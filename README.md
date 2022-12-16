@@ -1,7 +1,7 @@
 ## dt_bluetape
 ### Desafio Técnico - BlueTape
 
-O código trata-se de uma chegagem de lista de palavras-chave em uma lista de URLs.
+O código trata-se de uma checagem de lista de palavras-chave em uma lista de URLs.
 
 O objetivo do desafio é o desenvolvimento de um código em Python, utilizando as bibliotecas *Selenium*, *Beautiful Soup* e *Pandas*.
 
