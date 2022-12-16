@@ -10,3 +10,5 @@ O objetivo do desafio é o desenvolvimento de um código em Python, utilizando a
 + Selenium: Automatização do Browser;
 + Beautiful Soup: Acesso dos códigos-fontes das páginas;
 + Pandas: Manipulação de Parâmetros e de Resultado.
+
+Ao final do processo, além de ser mostrado um *Dataframe* com os resultados, um arquivo excel.xlsx é gerado com as palavras-chave encontradas em cada URL.
