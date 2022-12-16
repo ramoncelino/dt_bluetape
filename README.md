@@ -12,3 +12,8 @@ O objetivo do desafio é o desenvolvimento de um código em Python, utilizando a
 + Pandas: Manipulação de Parâmetros e de Resultado.
 
 Ao final do processo, além de ser mostrado um *Dataframe* com os resultados, um arquivo .xlsx é gerado com as palavras-chave encontradas em cada URL.
+
+Temos abaixo um exemplo da tabela gerada em um determinado período, visto que o número de palavras-chave em cada URL pode variar devido à constante atualização das URLs em questão.
+
+![image](https://user-images.githubusercontent.com/62210542/208025788-a7e3b101-36c3-4763-9079-7ec0aa55caa9.png)
+
