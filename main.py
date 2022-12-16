@@ -10,18 +10,6 @@ urls = ["https://www.ofertaesperta.com/", "http://www.globo.com", "https://autoe
 
 keywords = ["carro", "política", "tecnologia", "globo", "verdade", "python", "web scraping", "auto", "sonho", "luta", "esportes", "busca"]
 
-# Importar Bibliotecas
-from selenium import webdriver
-from bs4 import BeautifulSoup
-import pandas as pd
-import openpyxl
-import time
-
-# Criação da Lista de URLs e Palavras-Chave
-urls = ["https://www.ofertaesperta.com/", "http://www.globo.com", "https://autoesporte.globo.com/", "https://www.escolavirtual.gov.br/curso/213", "https://www.mg.superesportes.com.br/", "https://medium.com/data-hackers/web-scraping-com-python-para-pregui%C3%A7osos-unindo-", "https://filmow.com/listas/200-filmes-obrigatorios-para-cinefilos-l56792/"]
-
-keywords = ["carro", "política", "tecnologia", "globo", "verdade", "python", "web scraping", "auto", "sonho", "luta", "esportes", "busca"]
-
 # lista vazia para Armazenamento de resultados
 results = []
 
