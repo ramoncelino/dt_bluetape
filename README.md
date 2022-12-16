@@ -3,7 +3,7 @@
 
 O código trata-se de uma chegagem de lista de palavras-chave em uma lista de URLs.
 
-O objetivo do desafio é o desenvolvimento de um código em Python, utilizando as bibliotecas *_Selenium*, *_Beautiful Soup* e *_Pandas*.
+O objetivo do desafio é o desenvolvimento de um código em Python, utilizando as bibliotecas *Selenium*, *Beautiful Soup* e *Pandas*.
 
 > Deve-se consultar a lista de palavras-chave no código-fonte das URLs, sendo que:
 
